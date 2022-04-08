@@ -1,6 +1,6 @@
-a = "hello"
-def add_number(number):
-    return number+3
+list_cities = ["tokyo", "fukushima", "toyota", "fukuyama"]
 
-def add_numbers(x):
-    return x+5
+for  item in list_cities
+	print(item)
+
+
